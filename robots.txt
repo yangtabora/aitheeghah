@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heepiutha.bsideschelt.org.uk/sitemap.xml
